@@ -28,7 +28,7 @@ Add JitPack in your **root *build.gradle*** at the end of repositories:
  
  ```gradle
  	dependencies {
-	        implementation 'com.github.corouteam:GlideToVectorYou:v2.0.0'
+                implementation 'com.github.2coffees1team:GlideToVectorYou:v2.0.0'
 	}
  ```
 
